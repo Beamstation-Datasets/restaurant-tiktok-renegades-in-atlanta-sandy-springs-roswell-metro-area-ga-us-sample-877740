@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3a98bc98-c0a5-4107-97c7-3761cbefc443",
+  "export_job_id": "ddaa0ab3-62d3-4d68-86a7-c22e12d74a63",
   "id_short": 877740,
-  "published_at": "2026-04-19T07:41:34Z",
+  "published_at": "2026-04-23T07:14:10Z",
   "repo_name": "restaurant-tiktok-renegades-in-atlanta-sandy-springs-roswell-metro-area-ga-us-sample-877740",
   "sample_asset_name": "beamstation_877740_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/877740/beamstation_877740_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "87c72f5edf9f5c8903f7586b378407c4e24c7dee34dbbc617a4ac08e643c7ee8",
-  "sample_size_bytes": 60106,
-  "total_records": 111
+  "sample_records": 6,
+  "sample_sha256": "e63d30ee9fa147ab109ad6557651298fca8788c6d6a230f830d934fd76713c84",
+  "sample_size_bytes": 40223,
+  "total_records": 64
 }
